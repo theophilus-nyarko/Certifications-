@@ -1,6 +1,7 @@
 # Certifications 
 
 ###  1. ORAQ Regulatory Affairs Training Program 
+       [Verify Certificate](ORAQ Regulatory Affairs Training Program)
 ###  2. Google Data Analytics
 - [View Certificate](google_data_analytics.jpeg)
 - [Verify Certificate Online] (https://www.coursera.org/account/accomplishments/professional-cert/77605IWE5R6D)
